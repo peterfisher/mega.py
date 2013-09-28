@@ -14,6 +14,8 @@ This file contains definitions for some of the properties within the API. The ai
 *   'u' User Id
 *   's' Size
 *   'ts' Time Stamp
+*   't' Node Type
+*   'iv' Initialization Vector
 
 #### Node types
 
